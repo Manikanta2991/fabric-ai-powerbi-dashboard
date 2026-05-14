@@ -1,1 +1,9 @@
-
+Date,Region,Department,Revenue,Utilization
+2024-01,North,Sales,120000,78
+2024-01,South,Sales,100000,72
+2024-02,North,Sales,130000,80
+2024-02,South,Sales,95000,70
+2024-03,North,Sales,125000,76
+2024-03,South,Sales,85000,60
+2024-04,North,Sales,140000,82
+2024-04,South,Sales,90000,65
